@@ -1,4 +1,4 @@
-TOKEN = '5347003528:AAE9ujuP_JVElofM6B8DgFVJuinoTOe5Pwg'
+TOKEN = 'здесь должен быть Ваш токен'
 
 values = {
     'биткоин': 'BTC',
